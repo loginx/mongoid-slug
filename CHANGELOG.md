@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.9.0
+
+* Bump Mongoid version dependency to 3.0
+
 ## 0.8.3
 
 * Bump version of Stringex dependency.
